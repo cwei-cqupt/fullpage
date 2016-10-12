@@ -1,6 +1,9 @@
 # fullpage
 
-[使用示例](http://orionwei.github.io/homework/fullpage/docs/demo.html)
+[默认样式使用示例](http://orionwei.github.io/homework/fullpage/docs/demo.html)
+[悬浮菜单使用示例](http://orionwei.github.io/homework/fullpage/docs/demo.html?type=fixedM)
+[右侧导航使用示例](http://orionwei.github.io/homework/fullpage/docs/demo.html?type=rightL)
+[循环 使用示例](http://orionwei.github.io/homework/fullpage/docs/demo.html?type=loop)
 
 1. 获取fullpage
 
