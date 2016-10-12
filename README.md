@@ -1,5 +1,7 @@
 # fullpage
 
+[使用示例](http://orionwei.github.io/homework/fullpage/docs/demo.html)
+
 1. 获取fullpage
 
   下载fullpage文件
